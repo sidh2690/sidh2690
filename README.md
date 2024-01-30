@@ -5,19 +5,16 @@ I'm a third-year research student at [IISER Mohali](http://www.iisermohali.ac.in
 ## 💻 Coding Interests
 
 - **Languages:**
-  - Python (proficient)
+  - Python
+  - C++
   - Shell scripting
 
 - **Tools and Libraries:**
-  - Scientific Computing: ROOT, GammaPy, HEAsoft, PySWGO
+  - Scientific Computing: ROOT
   - Machine Learning: SciPy, NumPy, Matplotlib, Pandas, Seaborn, Sci-kit Learn, Tensorflow, Keras
 
 - **Operating Systems:**
   - Scientific Linux, Ubuntu, Windows
-
-- **Projects:**
-  - [CortexFlow Machine Learning Library](#) - Contributing to the development of a versatile ML library.
-  - [Noises Classification in Gravitational Waves](#) - Using few-shot meta-learning models for data analysis.
 
 ## 🚀 Current Projects
 ### CortexFlow: Machine Learning Library
