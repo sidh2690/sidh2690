@@ -7,21 +7,6 @@ I'm a third-year research student at [IISER Mohali](http://www.iisermohali.ac.in
 - **Languages:**
   - Python
   - C++
-  - Shell scripting
-
-- **Tools and Libraries:**
-  - Scientific Computing: ROOT
-  - Machine Learning: SciPy, NumPy, Matplotlib, Pandas, Seaborn, Sci-kit Learn, Tensorflow, Keras
-
-- **Operating Systems:**
-  - Scientific Linux, Ubuntu, Windows
-
-## 🚀 Current Projects
-### CortexFlow: Machine Learning Library
-- Actively contributing to the development of a library for efficient data preprocessing and model testing.
-
-## 🌱 Learning
-- Actively participating as a Kaggler to stay updated on the latest advancements in data science and machine learning.
 
 ## 📫 Contact
 - **Email:** ms21080@iisermohali.ac.in
